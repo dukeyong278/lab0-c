@@ -1,3 +1,7 @@
+# The entire content does not belong to me
+# I'm just practicing github and try to learn linux from Jserv's course. 
+
+
 # lab0-c
 Assessing Your C Programming Skills
 
